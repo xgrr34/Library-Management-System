@@ -7,7 +7,7 @@ public class db {
         public static void getConnection() {
             try {
                 // Establishing a connection to the database
-                String url = "jdbc:sqlite:/C:\\Users\\Kiran\\Downloads\\oop assignment/database1.db"; // Replace with the path to your SQLite database file
+                String url = "jdbc:sqlite:src/database1.db"; // Replace with the path to your SQLite database file
                 connection = DriverManager.getConnection(url);
                 statement = connection.createStatement();
                 System.out.println("the connection was successful");
