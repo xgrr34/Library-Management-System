@@ -25,7 +25,7 @@
 <ol>
   <li><strong>Clone the Repository</strong>: Clone this repository to your local machine using the following command:<br>
     <code>git clone https://github.com/xgrr34/Library-Management-System.git</code></li>
-  <li><strong>Database Setup</strong>: Make sure you have SQLite installed on your machine. The database file (<code>assignment1.db</code>) is included in the <code>src</code> directory. If you need to modify the database schema or connect to a different database, update the connection URL in the <code>Main.java</code> file.</li>
+  <li><strong>Database Setup</strong>: Make sure you have SQLite installed on your machine. The database file (<code>assignment1.db</code>) is included in the <code>src</code> directory and all the code is pushed in the master branch of the repository. If you need to modify the database schema or connect to a different database, update the connection URL in the <code>Main.java</code> file.</li>
   <li><strong>Compile and Run</strong>: Compile the Java files and run the <code>Main.java</code> file to start the library management system.</li>
 </ol>
 
