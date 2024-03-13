@@ -17,7 +17,7 @@
   <li><strong>Display Books</strong>: View all books available in the library.</li>
   <li><strong>Borrow Book</strong>: Allow users to borrow books from the library.</li>
   <li><strong>Return Book</strong>: Enable users to return borrowed books.</li>
-  <li><strong>Search Books by ID</strong>: Search for books by title.</li>
+  <li><strong>Search Books by ID</strong>: Search for books by ID.</li>
 </ul>
 
 <h2>Setup Instructions</h2>
